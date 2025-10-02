@@ -83,12 +83,9 @@ I thrive on turning complex problems into clean, scalable solutions and have a g
   <a href="https://linkedin.com/in/muhammad-samer-nisar" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a> &nbsp;
-  <a href="mailto:muhammadsamernisar@gmail.com">
+  <a href="mailto:samernisar063@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a> &nbsp;
-  <a href="https://github.com/muhammadsamernisar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 </p>
 
 ---
