@@ -72,8 +72,8 @@ I thrive on turning complex problems into clean, scalable solutions and have a g
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsamernisar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsamernisar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BSSE23113&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSSE23113&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
